@@ -1,0 +1,7 @@
+Western US Power Grid
+Author: Jorge Rodríguez Toledo
+
+DATA PROVENANCE
+Data has been collected from the Netzschleuder network repository (Reference included at the end of the report).
+Type the following link to directly view the data:
+	https://networks.skewed.de/net/power
